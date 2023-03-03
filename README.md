@@ -1,9 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="900" height="300"/>
 </div>
-### Hi there, I'm HEMALATHA 👋 
-
+Hi there, I'm HEMALATHA 👋 
 
 - 🔭 I’m currently pursuing Btech Information Technology
 - 🌱 I’m currently learning Python programming
