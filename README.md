@@ -1,7 +1,6 @@
- Hi there, I'm HEMALATHA 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="300"/>
+  <h2>Hi there, I'm HEMALATHA 👋<h2> 
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="900" height="300"/>
 </div>
  
 
