@@ -1,5 +1,5 @@
-
-  <script type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://storyset.com/illustration/coding/cuate#407BFFFF&hide=&hide=complete)" width="100"/>
 </div>
 ### Hi there, I'm HEMALATHA 👋 
 
