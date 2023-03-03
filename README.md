@@ -32,3 +32,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
+<hr>
+    
+### :fire: My Stats :
+  [![Hemalatha's github stats](https://github-readme-stats.vercel.app/api?username=Hema24L&theme=vision-friendly-dark)](https://github.com/Hema24L/github-readme-stats)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema24L&layout=compact&theme=vision-friendly-dark)](https://github.com/Hema24L/github-readme-stats)
