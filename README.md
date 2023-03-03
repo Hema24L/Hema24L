@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://storyset.com/illustration/coding/cuate#407BFFFF&hide=&hide=complete)" width="100"/>
+  <img src="C:\Users\hema1\projects\github\Coding.gif" width="100"/>
 </div>
 ### Hi there, I'm HEMALATHA 👋 
 
