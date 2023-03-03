@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://storyset.com/illustration/coding/cuate/animate?share=60987" width="100"/>
+
+  <script type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
 </div>
 ### Hi there, I'm HEMALATHA 👋 
 
