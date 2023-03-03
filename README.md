@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="500" height="500"/>
 </div>
 ### Hi there, I'm HEMALATHA 👋 
 
