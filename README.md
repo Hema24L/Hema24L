@@ -35,6 +35,6 @@
 <hr>
     
 ### :fire: My Stats :
-  [![Hemalatha's github stats](https://github-readme-stats.vercel.app/api?username=Hema24L&theme=vision-friendly-dark)](https://github.com/Hema24L/github-readme-stats)
+ 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema24L&layout=compact&theme=vision-friendly-dark)](https://github.com/Hema24L/github-readme-stats)
