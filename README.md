@@ -7,7 +7,6 @@
 
 - 🔭 Information Technology graduate 
 - 🌱 Currently learning Cybersecurity
-- 👯 Looking to collaborate on open source
 - 📫 Email: hema12304latha@gmail.com
 ---
     
