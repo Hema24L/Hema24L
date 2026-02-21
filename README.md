@@ -24,8 +24,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
 <hr>
-    
-### :fire: My Stats :
- 
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema24L&layout=compact&theme=vision-friendly-dark)](https://github.com/Hema24L/github-readme-stats)
